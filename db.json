@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server1",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "ОБНОВЛЕНИЕ",
+      "body": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "обновить",
+      "body": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "обновить",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server8",
+      "body": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "json-server8",
+      "body": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server8",
+      "body": "typicode"
+    },
+    {
+      "title": "23233232",
+      "body": "23233232",
+      "id": 12
+    },
+    {
+      "title": "32223232",
+      "body": "32223232",
+      "id": 13
+    },
+    {
+      "title": "1111111111",
+      "body": "1111111111",
+      "id": 14
+    },
+    {
+      "title": "пусто",
+      "body": "33333333",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
